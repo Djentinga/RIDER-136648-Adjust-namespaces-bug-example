@@ -1,0 +1,21 @@
+<Project Sdk="Godot.NET.Sdk/4.6.1">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+      <GeneratorStampFile>$(IntermediateOutputPath)generator.stamp</GeneratorStampFile>
+    <RootNamespace>RiderBugExample</RootNamespace>
+  </PropertyGroup>
+    <ItemGroup>
+        <AdditionalFiles Include="$(GeneratorStampFile)" />
+        <Compile Remove="Test\**" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Include="IHaveTheWrongNameSpace.cs.uid" />
+    </ItemGroup>
+    <Target Name="WriteGeneratorStamp" BeforeTargets="CoreCompile">
+        <WriteLinesToFile File="$(GeneratorStampFile)" Lines="$([System.DateTime]::UtcNow.ToString(`o`))" Overwrite="true" Encoding="UTF-8" />
+        <ItemGroup>
+            <FileWrites Include="$(GeneratorStampFile)" />
+        </ItemGroup>
+    </Target>
+</Project>

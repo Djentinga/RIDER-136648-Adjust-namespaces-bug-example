@@ -1,0 +1,11 @@
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\bin\Debug\net10.0\UnitTests.deps.json
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\bin\Debug\net10.0\UnitTests.dll
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\bin\Debug\net10.0\UnitTests.pdb
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\UnitTests.AssemblyInfo.cs
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\UnitTests.dll
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\refint\UnitTests.dll
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\UnitTests.pdb
+C:\Users\JoachimArting\Documents\rider-bug-example\Test\UnitTests\obj\Debug\net10.0\ref\UnitTests.dll
