@@ -2,6 +2,12 @@ Jetbrains Rider + Godot bug:
 
 As soon as one project depends on the other, auto refactoring namespaces does not work.
 
+Example Rider usage:
+
+<img width="481" height="62" alt="image" src="https://github.com/user-attachments/assets/cd0b08d2-5b68-4087-819f-74bf15596fd2" />
+
+Result: Nothing happens
+
 Jetbrains debug logs:
 
 ```msbuild
